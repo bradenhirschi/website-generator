@@ -1,0 +1,42 @@
+{
+  "searchParameters": {
+    "q": "Yoho Landscaping",
+    "type": "maps",
+    "ll": "@53.726669,-127.647621,14z",
+    "engine": "google"
+  },
+  "ll": "@53.726669,-127.647621,14z",
+  "places": [
+    {
+      "position": 1,
+      "title": "Yoho landscaping",
+      "latitude": 49.257735399999994,
+      "longitude": -123.123904,
+      "rating": 4.8,
+      "ratingCount": 32,
+      "type": "Landscape designer",
+      "types": [
+        "Landscape designer",
+        "Service establishment",
+        "Landscape architect",
+        "Landscape lighting designer"
+      ],
+      "website": "https://www.yoholandscaping.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7269162699661483561",
+      "phoneNumber": "+1 604-366-8713",
+      "openingHours": {
+        "Tuesday": "7:30 AM–4:30 PM",
+        "Wednesday": "7:30 AM–4:30 PM",
+        "Thursday": "7:30 AM–4:30 PM",
+        "Friday": "7:30 AM–4:30 PM",
+        "Saturday": "8 AM–4 AM",
+        "Sunday": "Closed",
+        "Monday": "7:30 AM–4:30 PM"
+      },
+      "thumbnailUrl": "https://lh5.googleusercontent.com/p/AF1QipM9iIKdVIIxpaa1QQG05s4pUTbFOK8sD913-Um5",
+      "cid": "6587855994377800992",
+      "fid": "0x5486774489e256cb:0x5b6cc41f78510d20",
+      "placeId": "ChIJy1biiUR3hlQRIA1ReB_EbFs"
+    }
+  ],
+  "credits": 3
+}
